@@ -1,2 +1,3 @@
-# ft-ssl-md5
-Project about some MD5
+# ft-ssl
+
+21 school project about hashes, cyphers and etc...
